@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff8f00" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anek+Devanagari&weight=600&size=35&pause=1000&color=6FA3FA&center=true&vCenter=true&width=435&separator=%3C&lines=Hi%2C+I'm+Josué!+%3A)%3CSoftware+Developer%3CI'm+from+Brasil+%3CWelcome!+;)" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&size=35&pause=1000&color=ff8f00&center=true&vCenter=true&width=435&separator=%3C&lines=Hi%2C+I%27m+Josu%C3%A9!+%3A)%3CSoftware+Developer%3CI%27m+from+Brasil+%3CWelcome!+;)" />
   </a>
 </div>
 
@@ -90,4 +90,4 @@
 
 ###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff8f00&height=100&section=footer" />
