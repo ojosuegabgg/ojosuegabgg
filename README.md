@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/40sabores" target="_blank">
+  <a href="https://discord.gg/" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/ojosuegab2" target="_blank">
