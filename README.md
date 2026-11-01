@@ -11,7 +11,7 @@
 ###
 
 <p align="center">
-  Oi! Meu Nome é Josué Cruz, estou começando a programar typescript, node.js, python e html. :/
+  Oi! Meu Nome é Josué Cruz
 </p>
 
 ###
